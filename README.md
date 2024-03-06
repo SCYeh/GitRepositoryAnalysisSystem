@@ -23,3 +23,4 @@ PS: 如果build完發現頁面均無變化，加入--outputHashing=all
 3. npm install @angular/cdk --save
 4. ng build --watch --base-href /GitRepositoryAnalysisSystem/frontEnd/
 5. ng serve
+目前dump檔需要更新
