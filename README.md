@@ -15,3 +15,11 @@ GitRepositoryAnalysisSystem\src\main\webapp\frontEnd\
 
 PS: 如果build完發現頁面均無變化，加入--outputHashing=all
 >>使用ng build --watch --outputHashing=all --base-href /GitRepositoryAnalysisSystem/frontEnd/
+
+2024/03/06 build建置步驟
+依下列步驟執行
+1. 安裝node.js 、 Angular
+2. cd frontEnd
+3. npm install @angular/cdk --save
+4. ng build --watch --base-href /GitRepositoryAnalysisSystem/frontEnd/
+5. ng serve
