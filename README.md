@@ -1,3 +1,4 @@
+此版本為CYeh與我 重現此系統之步驟紀錄。
 # GitRepositoryAnalysisSystem
 Angular + Java Servlet
 
@@ -43,7 +44,8 @@ https://blog.51cto.com/huny/3263674
 - 執行成功後，使用連結
     http://localhost:9000
     即可進入SonarQube登入畫面，首次登入帳號密碼皆為admin
-    
+
+以下為SCYeh提供，非常感謝
 ## SonarScanner掃描專案
 1. 下載SonarScanner (https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/)
     ![image](https://github.com/liyo2686/GitRepositoryAnalysisSystem/assets/88961674/3d45ece9-bf6d-4838-9f25-6b5b66bf9aa5)
