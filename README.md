@@ -45,9 +45,6 @@ https://blog.51cto.com/huny/3263674
     即可進入SonarQube登入畫面，首次登入帳號密碼皆為admin
     
 ## SonarScanner掃描專案
-參考以下網頁
-https://www.cnblogs.com/Uni-Hoang/p/15207178.html
-
 1. 下載SonarScanner (https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/)
     ![image](https://github.com/liyo2686/GitRepositoryAnalysisSystem/assets/88961674/3d45ece9-bf6d-4838-9f25-6b5b66bf9aa5)
    
