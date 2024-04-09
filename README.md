@@ -24,6 +24,7 @@ PS: 如果build完發現頁面均無變化，加入--outputHashing=all <br>
 3. `npm install @angular/cdk --save`
 4. run tomcat
 5. `ng build --watch --base-href /GitRepositoryAnalysisSystem/frontEnd/`
+6. cmd執行bin/windows-x86-64/StartSonar.bat
 
 ## SonarQube建置文件
 參考以下網頁
@@ -45,7 +46,6 @@ https://blog.51cto.com/huny/3263674
     http://localhost:9000
     即可進入SonarQube登入畫面，首次登入帳號密碼皆為admin
 
-以下為SCYeh提供，非常感謝
 ## SonarScanner掃描專案
 1. 下載SonarScanner (https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/)
     ![image](https://github.com/liyo2686/GitRepositoryAnalysisSystem/assets/88961674/3d45ece9-bf6d-4838-9f25-6b5b66bf9aa5)
